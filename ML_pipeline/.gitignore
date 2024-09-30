@@ -1,0 +1,9 @@
+./sample_bed
+./tran_test_shuffle_data
+./true_FN
+merge_dataframe.csv
+process_test_106_normalized_dataset.parquet
+process_train_normalized_dataset.parquet
+processed_data_test_106.parquet
+processed_data.parquet
+./all_FN
