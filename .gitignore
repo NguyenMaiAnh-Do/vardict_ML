@@ -1,6 +1,7 @@
 sample_bed/
-tran_test_shuffle_data/
+train_test_shuffle_data//
 true_FN/
+mergeDf_pre_filter_FN/
 merge_dataframe.csv
 process_test_106_normalized_dataset.parquet
 process_train_normalized_dataset.parquet
