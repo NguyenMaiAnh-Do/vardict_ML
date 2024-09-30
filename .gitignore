@@ -1,5 +1,5 @@
 sample_bed/
-train_test_shuffle_data//
+train_test_shuffle_data/
 true_FN/
 mergeDf_pre_filter_FN/
 merge_dataframe.csv
